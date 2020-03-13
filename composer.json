@@ -14,8 +14,10 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
-        "codeigniter4/framework": "4.0.*"
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "codeigniter4/framework": "4.*"
     },
     "autoload": {
         "psr-4": {
