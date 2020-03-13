@@ -1,0 +1,26 @@
+{
+    "name": "codepolitanlab/Entry",
+    "type": "library",
+    "description": "Crud generator for CodeIgniter 4",
+    "keywords": ["crud","generator","ci4","fieldtype"],
+    "homepage": "https://github.com/codepolitanlab",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toni Haryanto",
+            "email": "toha.samba@gmail.com",
+            "homepage": "https://toharyan.blogspot.co.id",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "codeigniter4/framework": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mein\\Entry\\": "/"
+        }
+    }
+}
+
