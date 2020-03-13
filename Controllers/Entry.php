@@ -1,8 +1,8 @@
-<?php namespace Mein\Entry\Controllers;
+<?php namespace Meinlib\Entry\Controllers;
 
 class Entry extends \App\Controllers\BaseController
 {
-	private $viewPath = "Mein\Entry\Views\\";
+	private $viewPath = "Meinlib\Entry\Views\\";
 
 	public function index()
 	{

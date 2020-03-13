@@ -1,5 +1,5 @@
 {
-    "name": "codepolitanlab/Entry",
+    "name": "meinlib/Entry",
     "type": "library",
     "description": "Crud generator for CodeIgniter 4",
     "keywords": ["crud","generator","ci4","fieldtype"],
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mein\\Entry\\": "/"
+            "Meinlib\\Entry\\": "/"
         }
     }
 }
